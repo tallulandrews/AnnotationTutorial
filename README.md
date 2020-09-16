@@ -4,7 +4,7 @@
 R 4.0.2 or higher.
 Development version of Bioconductor
 
-R packages: ggplot2, harmony, Seurat, SingleR, scater, SingleCellExperiment, scmap, celldex
+R packages: ggplot2, harmony, Seurat, SingleR, scater, SingleCellExperiment, scmap, celldex, fgsea, gsva?, SCINA, scCATCH
 
 RStudio is recommended.
 
